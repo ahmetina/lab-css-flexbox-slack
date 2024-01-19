@@ -8,3 +8,74 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+body {
+  background-color: purple;
+}
+
+.nav-container {
+  display:flex;
+  justify-content: space-between;
+  height: 45px;
+  
+}
+
+nav li{
+  display:inline-block;
+  padding:3px;
+  
+}  
+.main-middle{
+  display:flex;
+  justify-content:space-around;
+}  
+
+#im{
+  width: 250px;
+  margin:;
+}
+  
+#google-butt{
+
+}  
+
+
+
+
+
+.right{
+ display: flex;
+ justify-content:flex-end;
+ width:300px;
+ height:300px;
+
+}
+
+
+
+
+.left{
+  
+  
+}
+
+#product{
+  
+}
+
+.logo-part{
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 300px;
+  
+  
+}
+
+.logo-img{
+  display: flex;
+  justify-content:flex-start;
+  width: 50px;
+  height: 50px;
+  
+}
